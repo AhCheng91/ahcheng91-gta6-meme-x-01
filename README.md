@@ -1,5 +1,10 @@
 # GTA 6 Meme on X — make.fun bounty entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/AhCheng91/ahcheng91-gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/AhCheng91/ahcheng91-gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+
 This repository is the entry for make.fun's bounty **"Post a GTA 6 meme on X"**
 (gta6-meme-x-01): <https://make.fun/bounty/gta6-meme-x-01> — a $500 prize shared
 by the top 50 entries.
